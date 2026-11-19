@@ -111,7 +111,8 @@ Full output is in `results_simulator.txt`, `results_nice19.txt`, and `results_ni
 
 ## Presentation
 
-Slides: `slides/` *(add link or file)*
+Slides: https://docs.google.com/presentation/d/1Cy6YSQnS4oEdu1BzxB3Fw-nVF1NrpSTA/edit?usp=sharing&ouid=113230387560948977925&rtpof=true&sd=true
+
 
 ## Resources
 
